@@ -5,6 +5,9 @@
 ## Description
 This repository contains beginner study notes for version control practice using Git and GitHub.
 
+## what i am going to talk about
+so now i am going to do a pull request
+
 ## Topics Covered
 - Git basics
 - GitHub workflow

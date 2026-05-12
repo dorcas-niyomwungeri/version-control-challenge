@@ -11,6 +11,9 @@ GitHub is a platform used to host Git repositories online.
 - Helps collaboration
 - Allows restoring previous versions
 
+## what is a commit
+commit is used to creat a message for the codes you pushed
+
 ## Common Git Commands
 - git status
 - git add .
